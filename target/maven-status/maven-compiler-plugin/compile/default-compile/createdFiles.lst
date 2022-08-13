@@ -1,0 +1,10 @@
+controller/ReportesController.class
+model/dao/ProyectoBancoDao.class
+model/vo/DeudasPorProyectoVo.class
+util/JBDCUtilities.class
+view/RetoSemana4.class
+model/dao/ComprasDeLiderDao.class
+model/dao/DeudasPorProyectoDao.class
+model/vo/ProyectoBancoVo.class
+model/vo/ComprasDeLiderVo.class
+view/reportesView.class
